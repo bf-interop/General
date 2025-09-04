@@ -9,7 +9,7 @@ assignees: ''
 
 ## Use case overview
 - **Priority**: [High/Medium/Low]
-- **Status**: [Use appropriate GitHub label when creating Issue, Draft/Ready for Review/Under Review/Approved/Implemented]
+- **Status**: [Use appropriate GitHub label when creating Issue, e.g. question, help wanted, Ready for Review]
 
 ## Describe use case
 _A clear and concise description of a use case supported by BIG outputs (DCTAP and/or SHACL)._
@@ -17,7 +17,7 @@ _A clear and concise description of a use case supported by BIG outputs (DCTAP a
 E.g. *As a cataloger using a BIBFRAME editor, I would like the editor to check that my description validates using the BIG shapes without any errors*
 
 ## Preconditions (Optional)
-_List conditions that must be true before this use case can begin. Please list any blockers for this use case._
+_List conditions that must be true before this use case can begin. Please list any known blockers for this use case._
 
 ## Describe expected behavior in related systems
 _A clear and concise description of related system behavior_
